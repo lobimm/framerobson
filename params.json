@@ -1,0 +1,6 @@
+{
+  "name": "Framerobson",
+  "tagline": "",
+  "body": "<html>\r\n\t<head>\r\n\t\t<title>TRABALHO ROBSON</title>\r\n\t</head>\r\n\t\r\n\t\r\n\t<frameset rows=\"60,*\">\r\n\t\t<frame src=\"titulo.html\">\r\n\t\t<frameset cols=\"*,*\">\r\n\t\t\t<frame SRC=\"f1.html\">\r\n\t\t\t<frame SRC=\"f2.html\">\r\n\t\t</frameset>\r\n\t</frameset>\t\r\n\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
